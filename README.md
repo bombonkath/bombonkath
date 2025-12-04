@@ -40,8 +40,7 @@
 - 📍 From Costa Rica  
 - 🌸 Designer + Developer  
 - 💻 I love React, UI/UX, animations, and clean layouts  
-- 🧠 Passionate about psychology, quantum physics, and health  
-- 🍓 Keto lifestyle  
+- 🧠 Passionate about health   
 - 🎀 Aesthetic dev vibes  
 
 ---
